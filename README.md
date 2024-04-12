@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabatista&layout=donut)](https://github.com/cabatista/github-readme-stats)
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabatista&show_icons=true&theme=transparent)
-![Snake Animation](https://github.com/cabatista/)
+![Snake Animation](https://github.com/cabatista/blob/output/github-contribution-grid-snake.svg)
