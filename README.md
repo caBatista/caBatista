@@ -8,3 +8,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabatista)](https://github.com/cabatista/github-readme-stats)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabatista&show_icons=true&theme=transparent)
